@@ -1,0 +1,55 @@
+Included selected source assets:
+assets/free_environment/FreeEnvironment/FreePack.png
+assets/free_environment/__MACOSX/FreeEnvironment/._FreePack.png
+assets/ninja/Actor/Animal/CatOrange/SpriteSheet.png
+assets/ninja/Actor/Animal/CatWhite/SpriteSheet.png
+assets/ninja/Actor/Animal/Chicken/SpriteSheetBrown.png
+assets/ninja/Actor/Animal/Chicken/SpriteSheetWhite.png
+assets/ninja/Actor/Animal/Cow/SpriteSheetWhite.png
+assets/ninja/Actor/Animal/Dog/SpriteSheet.png
+assets/ninja/Actor/Animal/DogYellow/SpriteSheet.png
+assets/ninja/Actor/Animal/Fish/SpriteSheetRed.png
+assets/ninja/Actor/Animal/Frog/SpriteSheet.png
+assets/ninja/Actor/Animal/Parrot/SpriteSheetBlue.png
+assets/ninja/Actor/Animal/Parrot/SpriteSheetRed.png
+assets/ninja/Actor/Animal/Pig/SpriteSheetPink.png
+assets/ninja/Actor/Character/Boy/SpriteSheet.png
+assets/ninja/Backgrounds/Animated/Flower/SpriteSheet16x16.png
+assets/ninja/Backgrounds/Animated/Plant/SpriteSheet16x16.png
+assets/ninja/Backgrounds/Animated/Water Ripples/SpriteSheet16x16.png
+assets/ninja/Backgrounds/Tilesets/Interior/Elements.png
+assets/ninja/Backgrounds/Tilesets/Interior/TilesetInterior.png
+assets/ninja/Backgrounds/Tilesets/Interior/TilesetInteriorFloor.png
+assets/ninja/Backgrounds/Tilesets/Interior/TilesetWallSimple.png
+assets/ninja/Backgrounds/Tilesets/Pipes.png
+assets/ninja/Backgrounds/Tilesets/TilesetDesert.png
+assets/ninja/Backgrounds/Tilesets/TilesetDungeon.png
+assets/ninja/Backgrounds/Tilesets/TilesetElement.png
+assets/ninja/Backgrounds/Tilesets/TilesetField.png
+assets/ninja/Backgrounds/Tilesets/TilesetFloor.png
+assets/ninja/Backgrounds/Tilesets/TilesetFloorB.png
+assets/ninja/Backgrounds/Tilesets/TilesetFloorDetail.png
+assets/ninja/Backgrounds/Tilesets/TilesetHole.png
+assets/ninja/Backgrounds/Tilesets/TilesetHouse.png
+assets/ninja/Backgrounds/Tilesets/TilesetLogic.png
+assets/ninja/Backgrounds/Tilesets/TilesetNature.png
+assets/ninja/Backgrounds/Tilesets/TilesetRelief.png
+assets/ninja/Backgrounds/Tilesets/TilesetReliefDetail.png
+assets/ninja/Backgrounds/Tilesets/TilesetTowers.png
+assets/ninja/Backgrounds/Tilesets/TilesetVillageAbandoned.png
+assets/ninja/Backgrounds/Tilesets/TilesetWater.png
+assets/ninja/Backgrounds/Tilesets/tileset_bed.png
+assets/ninja/Backgrounds/Tilesets/tileset_camp.png
+assets/ninja/LICENSE.txt
+assets/ninja/README.md
+assets/pixel_art/Texture/Extra/TX Plant with Shadow.png
+assets/pixel_art/Texture/Extra/TX Props with Shadow.png
+assets/pixel_art/Texture/TX Plant.png
+assets/pixel_art/Texture/TX Player.png
+assets/pixel_art/Texture/TX Props.png
+assets/pixel_art/Texture/TX Shadow Plant.png
+assets/pixel_art/Texture/TX Shadow.png
+assets/pixel_art/Texture/TX Struct.png
+assets/pixel_art/Texture/TX Tileset Grass.png
+assets/pixel_art/Texture/TX Tileset Stone Ground.png
+assets/pixel_art/Texture/TX Tileset Wall.png

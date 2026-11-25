@@ -1,0 +1,98 @@
+[
+  {
+    "x": 1200,
+    "y": 608,
+    "key": "bush_flowering",
+    "light": false
+  },
+  {
+    "x": 1560,
+    "y": 624,
+    "key": "tree_narra_gold",
+    "light": false
+  },
+  {
+    "x": 1624,
+    "y": 568,
+    "key": "tree_narra_gold",
+    "light": false
+  },
+  {
+    "x": 1640,
+    "y": 600,
+    "key": "tree_mango",
+    "light": false
+  },
+  {
+    "x": 1712,
+    "y": 608,
+    "key": "tree_acacia_large",
+    "light": false
+  },
+  {
+    "x": 1840,
+    "y": 656,
+    "key": "beehive",
+    "light": false
+  },
+  {
+    "x": 1792,
+    "y": 584,
+    "key": "tree_mango",
+    "light": false
+  },
+  {
+    "x": 1640,
+    "y": 464,
+    "key": "tree_caballero_pink",
+    "light": false
+  },
+  {
+    "x": 1840,
+    "y": 416,
+    "key": "tree_caballero_pink",
+    "light": false
+  },
+  {
+    "x": 1744,
+    "y": 832,
+    "key": "tree_mango",
+    "light": false
+  },
+  {
+    "x": 1592,
+    "y": 832,
+    "key": "tree_mango",
+    "light": false
+  },
+  {
+    "x": 1632,
+    "y": 864,
+    "key": "tree_acacia_large",
+    "light": false
+  },
+  {
+    "x": 1360,
+    "y": 816,
+    "key": "tree_mango",
+    "light": false
+  },
+  {
+    "x": 1816,
+    "y": 824,
+    "key": "tree_acacia_large",
+    "light": false
+  },
+  {
+    "x": 2192,
+    "y": 1832,
+    "key": "tree_acacia_large",
+    "light": false
+  },
+  {
+    "x": 2440,
+    "y": 1856,
+    "key": "tree_acacia_large",
+    "light": false
+  }
+]

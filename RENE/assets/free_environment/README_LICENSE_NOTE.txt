@@ -1,0 +1,1 @@
+The supplied FreeEnvironment.zip contained only FreePack.png and no license/readme. Confirm the original creator and license before public or commercial release. The project uses only selected rock accents from this sheet.
